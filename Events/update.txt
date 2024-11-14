@@ -1,0 +1,4 @@
+> Updated `/xlookup` | Added Global Ban Checker + Cache Scanner
+> Added More Crash Accounts To Cosmos Global Ban Database
+> Added Kick Message To Send Inside Your Realm
+> Fixed Some Commands Saying The Wrong Permissions Requirement

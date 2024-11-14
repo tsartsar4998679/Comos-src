@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.5",
+    "dbd-soft-ui": "^1.6.48-beta.1",
+    "discord-dashboard": "^2.3.61",
+    "discord.js": "^14.11.0",
+    "edit-json-file": "^1.7.0",
+    "express-session": "^1.17.3",
+    "prismarine-auth": "^2.2.0",
+    "session-file-store": "^1.5.0",
+    "topgg-autoposter": "^2.0.1"
+  }
+}
